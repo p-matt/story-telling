@@ -1,4 +1,4 @@
-# Déploiement d'une application web avec Dash  
+# Application web - Dash, DataVis
 
 Ce projet est une application web réalisée avec Dash.  
 L'applcation est accessible publiquement grace à un déploiement avec heroku.  

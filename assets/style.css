@@ -1,0 +1,188 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,200,300ita‌​lic,400italic,500,500italic,700,700italic,900italic,900);
+
+html{
+background: linear-gradient(163deg, #c4c4c4, #fff7f1, #ffd4a163)
+}
+
+nav
+{
+color: wheat;
+text-align: left;
+height: 90px;
+background:#37251e;
+margin: 0;
+padding: 0;
+z-index: -20;
+}
+
+h2
+{
+background-image: linear-gradient(90deg, #e52e71, #ff8a00);
+height: 70px;
+padding: 0;
+z-index: 20;
+position: relative;
+border-bottom-left-radius: 70%;
+margin: -0px 0 0 0;
+}
+
+
+body{
+font-family: "Roboto", sans-serif;
+margin: 0;
+padding-bottom: 200px;
+}
+
+h1{
+text-align: center;
+vertical-align: text-bottom;
+margin-bottom: 0;
+font-weight: 700;
+}
+
+nav > h1{
+display: inline-block;
+margin-left: 15%;
+}
+
+div > h1{
+border-radius: 50px 50px 0px 0px;
+background: #dae8fb;
+font-weight: 300;
+}
+
+h3{
+background: #edf4f7;
+padding: 5px 0 5px 0;
+color: black;
+margin-bottom: 0;
+width: 99.9%;
+font-size: 1.5em;
+text-align: center;
+font-weight: 400;
+text-decoration: underline;
+}
+
+#main{
+width:80%;
+margin:auto;
+}
+
+.cellule{
+width:50%;
+display:inline-block;
+margin: 0;
+}
+
+.row{
+width: 100%;
+margin-bottom: 3%;
+}
+
+fieldset{
+margin-top: 2.5%;
+border: 2px solid black;
+color: orange;
+}
+
+legend{
+font-size: 2em;
+color: wheat;
+background: black;
+display: block;
+width: 99.2%;
+margin: auto;
+text-align: center;
+width: 85%;
+border: 1px solid black;
+padding: 3px 6px;
+cursor: pointer;
+font-weight: 500;
+}
+
+#content1, #content2{
+display: none
+}
+
+
+legend::after {
+content: "▼";
+float: right;
+}
+
+#content3{
+margin-top: 5%;
+width: 100%;
+height: 350px;
+background: wheat;
+}
+
+#title-analyse{
+font-size: 2em;
+font-weight: 500;
+text-align: center;
+background: black;
+color: wheat;
+}
+
+#analyse{
+text-justify: auto;
+font-size: 1.5em;
+}
+
+p{
+white-space: pre-wrap;
+word-wrap: break-word;
+font-weight: 400;
+line-height: 2em;
+text-align: justify;
+width: 90%;
+margin: auto;
+padding: 3% 0 3% 0;
+font-size: 1.25em;
+}
+
+.elem{
+display: inline-block;
+margin: 3% 3% 0 0;
+}
+
+div > a > img{
+height: 250px;
+width: 450px;
+}
+
+a{
+color: #E73469;
+text-decoration: none;
+}
+
+a > label{
+text-align: center;
+font-weight: 500;
+font-size: 1.5em;
+background: #37251e;
+border-radius: 40px 40px 0 0;
+}
+
+#page-content{
+margin: 1% auto auto auto;
+width: 80%;
+}
+
+div > a > img{
+display: inline-block;
+}
+
+nav > a > img{
+margin: 0.5% 0 0 11%;
+}
+
+br{
+display: block
+}
+
+#p-container{
+background: #fff;
+border-radius: 0px 0px 23px 23px;
+}

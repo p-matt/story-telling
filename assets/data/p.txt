@@ -1,0 +1,16 @@
+De mi Janvier à mi Octobre 2020, on recense plus de 40 millions d'infectés pour 1 millions de morts dans le monde. Le taux de guérison est très élevé puisque dans plus de 97% des cas la personne infecté s'en sort indemne.
+Dans le monde le nombre de mort par jour est relativement stable depuis Avril 2020, on en relève entre 3000 et 9000. En revanche le nombre de cas par jour est en constante augmentation, ce qui s'explique notamment par le fait que de plus en plus de personne sont dépistées.
+
+Les continents qui présente le plus de mort sont respectivment l'Amérique, l'Asie, et l'Europe. L'Océanie etant très isolée ne présente que très peu de morts presque 300 fois moins que dans les autres contients.
+L'Afrique recense également peu de morts par rapport aux autres continents.
+C'est en Europe ou le taux de mort par cas est le plus élevé, on peut considérer qu'il y'a un nouveau mort tous les 30 cas. Ce taux est deux fois moins important en Asie et c'est la bas qu'il est le moins imoprtant sur l'ensemble des continents, peut être par le fait que la densité de la population est globalement moins importante.
+
+Concernant les pays, c'est d'abord les USA, le Brésil, l'Inde et le Mexique qui comptabilise le plus de morts, plus de 200.000 morts aux États-Unis.
+Le nombre de morts par habitants est varie entre 0.0005 et 0.0012 pour les Pays les plus touchés (San Marino, Pérou, Belgique, Brésil, Espagne, France), ce qui représente environ, on peut dire, un mort tous les 2.000 habitants en France par exemple.
+On constate paradoxalement que le nombre de morts par habitants à tendance à augmenter avec l'indice de développement du Pays
+
+En Europe ce sont l'Italie, l'Angleterre, la France, l'Espagne et la Russie sont les plus touchés (nombre de morts, nombre de cas).
+Les tendances sont les mêmes globalement mais à différentes échelles, le nombre de mort par jour à sévérement augmenter entre Mars et Juin 2020 et est maintenant relativement stable.
+On peut constater deux vagues sur l'ensemble du continent Européen par rapport à l'évolution du nombre de cas par jour (Mars-Mai, Aout-Octobre+)
+
+Aux États-Unis on constate évidemment que le nombre de morts et d'infections ont tendances à augmenter avec la densitée de population.

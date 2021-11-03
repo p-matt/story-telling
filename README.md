@@ -1,4 +1,4 @@
-# Application web - Dash, DataVis
+# Application web - Dash, DataViz
 
 Ce projet est une application web réalisée avec Dash.  
 L'application est accessible publiquement depuis [ce lien](https://storytelling-covid.herokuapp.com/) grace à un déploiement avec heroku. Elle est décomposée en plusieurs pages, chacune d'entre elle permet une visualisation des données en rapport avec la pandémie sur un secteur géographique défini. La data visualisation est réalisée via plotly.
